@@ -1,4 +1,4 @@
-const screenWidth = 1000; 
+const screenWidth = 400; 
 
 if (screenWidth < 600) {
   console.log("mobile");
